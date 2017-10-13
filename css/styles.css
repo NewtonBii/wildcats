@@ -1,0 +1,16 @@
+.head{
+  font-size: 150px;
+  font-weight: bold;
+}
+img{
+  width: 20%;
+  float: right;
+}
+body{
+  float: right;
+  background-color: #A8AEA1;
+}
+
+header{
+  display: block;
+}
